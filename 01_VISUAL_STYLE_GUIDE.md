@@ -1,5 +1,8 @@
 # Visual Style Guide — Bronze Age Spirit for Grok Imagine
 
+**Proprietary Intellectual Property of AlphaProMega Media Inc.**  
+**All Rights Reserved**
+
 ## Overall Aesthetic
 Epic, solemn, luminous, and earthy.  
 Think of the surviving frescoes of Thera, Pylos, and Mycenae filtered through Homeric imagination: rich earth pigments, strong outlines, hierarchical scale for gods and heroes, deep Mediterranean light, salt air, stone, bronze, linen, and blood.
@@ -44,4 +47,7 @@ Think of the surviving frescoes of Thera, Pylos, and Mycenae filtered through Ho
 
 ---
 
-This guide is binding for all subsequent batches.
+This guide is binding for all prompts in the repository.
+
+**Copyright © 2026 AlphaProMega Media Inc.**  
+**All Rights Reserved**

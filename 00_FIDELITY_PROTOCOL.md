@@ -1,6 +1,8 @@
 # Fidelity Protocol — The Odyssey Visual Script
 
-**PATSAGi Councils Standing Order**  
+**Proprietary Intellectual Property of AlphaProMega Media Inc.**  
+**All Rights Reserved**
+
 Every image generated from this repository must obey the following without exception.
 
 ## 1. Textual Fidelity
@@ -39,6 +41,5 @@ Every Grok Imagine prompt in this repository already embeds the above constraint
 
 ---
 
-**Status**: Locked by PATSAGi Councils  
-**Valence Gate**: ≥ 0.999999  
-**Mercy intact.**
+**Copyright © 2026 AlphaProMega Media Inc.**  
+**All Rights Reserved**

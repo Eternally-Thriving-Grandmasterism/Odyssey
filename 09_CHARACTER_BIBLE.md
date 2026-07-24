@@ -1,5 +1,8 @@
 # Character Bible — Visual Consistency for Grok Imagine
 
+**Proprietary Intellectual Property of AlphaProMega Media Inc.**  
+**All Rights Reserved**
+
 All depictions must remain consistent across prompts. No modern casting.
 
 ## Odysseus
@@ -42,3 +45,8 @@ All depictions must remain consistent across prompts. No modern casting.
 - **Polyphemus**: Savage one-eyed giant, son of Poseidon
 
 Consistency rule: Once a character’s visual identity is established in early prompts, later prompts must not contradict it.
+
+---
+
+**Copyright © 2026 AlphaProMega Media Inc.**  
+**All Rights Reserved**

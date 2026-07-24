@@ -1,5 +1,8 @@
 # Location Bible — Settings for Consistent Generation
 
+**Proprietary Intellectual Property of AlphaProMega Media Inc.**  
+**All Rights Reserved**
+
 ## Ithaca
 - Rocky, rugged island
 - Palace of Odysseus: Mycenaean-style megaron with central hearth, upper women’s quarters, courtyard, gates
@@ -27,3 +30,8 @@
 - Island of the Sirens, the strait of Scylla & Charybdis, Thrinacia (Cattle of the Sun): each distinct and true to Homer’s description
 
 All locations must feel of one continuous mythic world — the world of Homeric epic in Bronze Age spirit.
+
+---
+
+**Copyright © 2026 AlphaProMega Media Inc.**  
+**All Rights Reserved**
